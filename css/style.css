@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(187, 134, 248);
+    width: 101%;
+    height: 40px;
+    margin: -10px -10px;
+    text-align: center;
+    padding: 1.2rem;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 25%;
+    height: 25%;
+    padding: 0% 38%;
+}
+
+footer{
+    background-color:  rgb(187, 134, 248);
+    margin: 10px -10px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
